@@ -73,7 +73,6 @@ input, select, textarea {
 }
 
 /* Basic */
-
 	@-ms-viewport {
 		width: device-width;
 	}
@@ -977,6 +976,8 @@ input, select, textarea {
 			}
 
 /* Button */
+	
+
 
 	input[type="submit"],
 	input[type="reset"],
