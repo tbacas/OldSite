@@ -1511,8 +1511,7 @@ input, select, textarea {
 		z-index: 3;
 	}
 		#Profile {width: 40%;
-			height: 50%px; display: flex; align-items: center; padding:1px;
-   border:1px solid #000000;}
+			height: 50%px; display: flex; align-items: center; padding:1px;}
 		#intop1 {text-align: left}
 
 		#main article {
